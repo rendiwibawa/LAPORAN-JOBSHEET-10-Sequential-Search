@@ -6,7 +6,7 @@
 
 
 
-PRAKTIKUM 1
+PRAKTIKUM 1 BENAR
 
 
 
@@ -14,7 +14,24 @@ PRAKTIKUM 1
 
 
 
+
+PRAKTIKUM 1 SALAH 
+
+
+
+
+
+![Alt Text](https://github.com/rendiwibawa/LAPORAN-JOBSHEET-10-Sequential-Search/blob/master/tugas%20praktikum%201%20salah.PNG)
+
+
+
+
+
+
+
 PRAKTIKUM2
+
+
 
 
 
